@@ -1,8 +1,6 @@
-# CMPT 353 Final Project
 
 Topic: Investigating Airport Data in North American Airports in the year preceding (and during) the COVID-19 pandemic.
 
-Contributors: Anna Tang, Clement Ip, Erica Ho
 
 ## Instructions:
 It is recommended that Python 3.7+, and the Jupyter Notebook be installed. These can be easily installed with the follwing commands (for Debain/Ubuntu):
